@@ -79,3 +79,21 @@ body, html{
         -0.07em 0 black,
         0 -0.07em black;
 }
+
+.myImage {
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+
+.computerImage {
+    height: 50%;
+    width: 50%;
+    float: right;
+}
+
+.wineImage {
+    height: 50%;
+    width: 50%;
+    float: left;
+}
